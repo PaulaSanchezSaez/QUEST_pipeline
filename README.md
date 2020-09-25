@@ -5,5 +5,6 @@ Pipelie to reduce and calibrate data from the QUEST-La Silla AGN variability sur
 More info about the pipeline can be found in pipeline_manual.pdf
 
 This data set was used in the following works:
+
 Selection of QSO candidates: https://ui.adsabs.harvard.edu/abs/2019ApJS..242...10S/abstract
 Connection between AGN Variability and Black Hole Physical Properties :https://ui.adsabs.harvard.edu/abs/2018ApJ...864...87S/abstract 
